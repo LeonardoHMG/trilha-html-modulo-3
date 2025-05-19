@@ -30,6 +30,12 @@ O tema escolhido foi a série **Stranger Things**, abordando informações como:
 
 ### 🚀 Como Executar o Projeto
 
+Acesse o link: https://leonardohmg.github.io/trilha-html-modulo-3/
+
+ou
+
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeonardoHMG/trilha-html-modulo-3.git
+   ```
+2. Basta abrir o arquivo index.html no navegador
